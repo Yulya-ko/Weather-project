@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src=""D:\JavaScript\Projects_for_GitHub\images_my_projects\weather.jpg"" alt="Weather App Preview" width="600">
+  <img src="https://github.com/Yulya-ko/Weather-project/blob/main/weather.jpg" alt="Weather App Preview" width="600">
 </p>
 
 <h2>📌 Project Description</h2>
@@ -33,11 +33,9 @@
   <li>Responsive layout</li>
 </ul>
 
-<h2>📸 Preview</h2>
+<h2>📸 Preview Demo</h2>
 
-<p>
-  <img src="assets/preview.png" alt="App Demo" width="600">
-</p>
+<a href="https://luminous-longma-4f0624.netlify.app/" target="_blank">Weather App</a>
 
 <h2>🚀 Getting Started</h2>
 
@@ -61,6 +59,6 @@
 
 <p>
   If you have any questions or suggestions, feel free to reach out.<br>
-  ✉️ Email: your-email@example.com<br>
-  💼 LinkedIn: <a href="https://linkedin.com/in/yourprofile">yourprofile</a>
+  ✉️ Email: yulya.kosheleva5@gmail.com<br>
+  💼 LinkedIn: <a href="https://luminous-longma-4f0624.netlify.app/">yourprofile</a>
 </p>
