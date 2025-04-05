@@ -60,5 +60,5 @@
 <p>
   If you have any questions or suggestions, feel free to reach out.<br>
   ✉️ Email: yulya.kosheleva5@gmail.com<br>
-  💼 LinkedIn: <a href="https://luminous-longma-4f0624.netlify.app/">yourprofile</a>
+  💼 LinkedIn: <a href="https://www.linkedin.com/in/yuliia-koshelieva-2b280730b">My Profile</a>
 </p>
