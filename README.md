@@ -41,7 +41,7 @@
 
 <pre>
 1. Clone the repository:
-   git clone https://github.com/yourusername/weather-app.git
+   git clone https://github.com/Yulya-ko/Weather-project.git
 
 2. Open the index.html file in your browser
 
